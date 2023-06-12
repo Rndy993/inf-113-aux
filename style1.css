@@ -1,0 +1,160 @@
+
+ 
+body {
+    background-image: url(https://assets.mubicdn.net/images/film/149779/image-w1280.jpg?1662505232);
+        
+       
+    background-size: cover;
+        
+       
+    background-repeat: no-repeat;
+
+    background-color: #111;
+
+
+    color: #fff;
+
+
+    font-family: Arial, sans-serif;
+
+
+    margin: 0;
+}
+
+.container {
+
+    max max-width: 800px;
+
+
+    margin: 0 auto;
+
+
+    padding: 20px;
+}
+
+.header {
+
+
+    text-align: left;
+
+
+    margin-bottom: 20px;
+}
+
+.header img {
+    width: 200px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.buttons {
+    margin-left: auto;
+
+
+    margin-bottom: 20px;
+}
+
+.button {
+
+
+    display: inline-block;
+
+
+    padding: 10px 20px;
+
+
+    background-color: transparent;
+
+
+    color: #fff;
+
+
+    text-decoration: none;
+
+
+    font-weight: bold;
+
+
+    margin-right: 10px;
+
+
+    border: none;
+
+
+    transition: color 0.3s ease;
+}
+
+.button:hover {
+
+
+    color: #e50914;
+}
+
+.description {
+
+
+    text-align: left;
+
+
+    max-width: 400px;
+
+
+    margin-right: 20px;
+}
+
+
+}
+
+h
+}
+
+h1 {
+
+
+    font-size: 32px;
+
+
+    margin-top: 0;
+
+
+    margin-bottom: 10px;
+}
+
+.play-mylist-buttons {
+
+
+    margin-top: 20px;
+}
+
+.play-button,
+.mylist-button {
+
+
+    display: inline-block;
+
+
+    padding: 10px 20px;
+
+
+    background-color: #e50914;
+
+
+    color: #fff;
+
+
+    text-decoration: none;
+
+
+    font-weight: bold;
+
+
+    margin-right: 10px;
+
+
+    border: none;
+
+
+    transition: background-color 0.3s ease;
+}
